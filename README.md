@@ -3,12 +3,19 @@ This template is a fully functional Next.js starter project that includes user a
 
 Features
 🌐 Next.js 13 – Modern server-side rendering framework.
+
 🔑 Full Authentication Module – User registration, login, logout, password reset.
+
 🏠 Customizable Dashboard – Pre-built layout with user stats, analytics, and UI components.
+
 🔒 Protected Routes – Secure pages with role-based access control (RBAC).
+
 💾 MongoDB Integration – User and session data stored in a MongoDB database.
+
 🎨 Tailwind CSS – Fast styling with a modern utility-first framework.
+
 🚀 API Routes – Built-in API routes for authentication and dashboard data.
+
 📱 Responsive – Mobile-first design.
 Quick Start
 Follow these steps to set up and run the project locally.
