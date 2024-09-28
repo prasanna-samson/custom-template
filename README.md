@@ -1,4 +1,4 @@
-Next.js Full-Stack Template with Authentication & Dashboard
+#Next.js Full-Stack Template with Authentication & Dashboard
 This template is a fully functional Next.js starter project that includes user authentication and a customizable dashboard. It's designed to be easy to set up, extend, and customize.
 
 Features
